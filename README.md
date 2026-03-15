@@ -104,5 +104,5 @@ order details, pizza categories, sizes, prices, and timestamps.
 <h2>📷 Project Visualization</h2>
 
 <p align="center">
-<img src="PASTE_YOUR_IMAGE_LINK_HERE" width="900">
+<img src="Bar_Chart.png" width="900">
 </p>
